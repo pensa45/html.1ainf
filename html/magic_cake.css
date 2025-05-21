@@ -1,0 +1,160 @@
+html, body, h1, h2, h3, p, ol, ul, li, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+body {
+    padding: 20pt 20px 20px 20px;
+    color: #7FACAA;
+}
+h1 {
+    margin: 10px 0 15px 0;
+    color: #7FACAA;
+
+}
+h2 {
+    margin: 10px 0 20px 0;
+    color: #7FACAA;
+}
+h3 {
+    margin: 15px 0 15px 0;
+    color: #7FACAA;
+}
+h3 {
+    margin: 15px 0 15px 0;
+    border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 3px;
+}
+li, p {
+    color: black;
+}
+ul {
+    padding: 0 0 0 50px;
+}
+.nav {
+    padding-left: 0;
+}
+.nav a {
+    text-decoration: none;
+    color: #0000af;
+}
+.nav li {
+    display: inline;
+}
+.recipes {
+    list-style-type: none;
+    padding: 0;
+}
+.recipes a  {
+    text-decoration: none;
+    color: #7FACAA;
+}
+.recipes li {
+    border: 1px solid #b56663;
+    padding-left: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.recipes h3 {
+    border-bottom: 0;
+}
+.recipes p {
+    padding-left: 0;
+}
+.recipes a:hover {
+    color: #7FACAA;
+}
+.header {
+    background-color: #1e85c9;
+}
+.header h1 {
+    color: white;
+}
+.header a {
+    text-decoration: none;
+    color: white;
+}
+
+body {
+    padding: 0 0 0 0;
+}
+ol {
+    padding: 0 0 0 50px;
+}
+p {
+    padding: 0 0 0 50px;
+}
+h1 {
+    margin: 0;
+    padding: 15px 0 10px 0;
+}
+.nav {
+    padding: 0 0 15px 0;
+}
+.header { 
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+}
+.header a {
+    color: #ffffff;
+}
+.header h1 {
+    color: #ffffff;
+}
+.main-content {
+    width:  90%;
+    padding: 20px 20px 20px 20px;
+    border: 1px solid #666666;
+    margin: 30px auto 0 auto;
+}
+.photos {
+    list-style-type:  none;
+    padding: 0;
+}
+.photos li {
+    display: inline;
+    padding-left: 11px;
+}
+.photos img {
+    width: 30%;
+}
+.header img {
+    width: 15%;
+}
+.header {    
+    text-align: center;
+}
+
+label, input {
+    display: block;
+} 
+
+label {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 500px;
+    margin-bottom: 25px;
+}
+
+input [type=submit] {
+    width: 150px;
+    font-size: 15px;
+}
+
+input [type=text] {
+    border: 2px solid #7FACAA;
+    font-size: 24px;
+    padding: 7px;
+}
+
+textarea {
+    width: 500px;
+    height: 400px;
+    padding: 7px;
+    border: 2px solid #7FACAA;
+    margin-bottom: 25px;
+    font-size: 24px; 
+}
